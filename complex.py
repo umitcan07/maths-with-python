@@ -27,3 +27,4 @@ def abs_value(z):
 
 # Test the find_parts_of_conjugate function:
 print(find_parts_of_conjugate((1 + 2j) * (2 - 3j) * (4 + 5j)))
+print(complex(1, 2) * complex(2, 3))
